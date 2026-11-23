@@ -1,0 +1,15 @@
+# Java compiled files
+*.class
+target/
+
+# Eclipse settings
+.metadata/
+.settings/
+.project
+.classpath
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
