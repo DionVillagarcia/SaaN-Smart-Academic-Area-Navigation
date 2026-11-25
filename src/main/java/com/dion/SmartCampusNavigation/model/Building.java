@@ -1,5 +1,4 @@
 package com.dion.SmartCampusNavigation.model;
 
-public class Building {
-
+public record Building(String buildingId, String buildingName) {
 }
