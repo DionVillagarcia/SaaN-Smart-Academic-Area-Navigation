@@ -1,0 +1,35 @@
+node_id,node_name,pass_through
+MAIN-ENT,Gate,false
+P1,P1,true
+P2,P2,true
+P3,P3,true
+R1,R1,true
+R2,R2,true
+R3,R3,true
+R4,R4,true
+R5,R5,true
+R6,R6,true
+GH,Guard House,true
+CAN,Canteen,false
+CHAP,Chapel,false
+DORM,Dormitory,false
+ENGR-G,Engineering Grounds,true
+BLDG-ENGR,Engineering Building,false
+BLDG-A,Building A,false
+KIOSK,Kiosk,true
+KIOSK-CR,CR Kiosk Area,false
+ZONTA,Zonta,true
+J1,J1,true
+J2,J2,true
+J3,J3,true
+J4,J4,true
+GYM,Gymnasium Building,false
+AQUA,Aquarium Building,true
+BLDG-B,Building B,true
+MNT,Maintenance,true
+BLDG-BUS,Business Building,false
+B1,B1,true
+B2,B2,true
+B3,B3,true
+B4,B4,true
+BLDG-EDUC,Education Building,false
